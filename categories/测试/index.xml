@@ -2,18 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>测试 on 李阳想去火星灌篮</title>
-        <link>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</link>
+        <link>https://JerryNight.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
         <description>Recent content in 测试 on 李阳想去火星灌篮</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>李阳要去火星灌篮</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://JerryNight.github.io/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>文献阅读的方法与技巧</title>
+        <link>https://JerryNight.github.io/p/test-chinese/</link>
+        <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://JerryNight.github.io/p/test-chinese/</guid>
+        <description>&lt;img src="https://JerryNight.github.io/p/test-chinese/unsplash.jpg" alt="Featured image of post 文献阅读的方法与技巧" /&gt;&lt;h2 id=&#34;review&#34;&gt;Review
+&lt;/h2&gt;&lt;p&gt;what&amp;rsquo;s the main defference between academic and non-academic(mass public) articles?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;background: academic words and terms, technical skills, knowledge&lt;/li&gt;
+&lt;li&gt;more formal: the structure of a paper, credential, reference&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;how-to-read-a-paper&#34;&gt;How to read a paper:
+&lt;/h2&gt;&lt;p&gt;WHY - WHAT - HOW ?
+readers are expected to :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;recognized the author&amp;rsquo;s purpose and &lt;strong&gt;possible bias&lt;/strong&gt; (技术路线偏见)&lt;/li&gt;
+&lt;li&gt;distinguish between fact and author&amp;rsquo;s opinions&lt;/li&gt;
+&lt;li&gt;challenge questionable assumptions and unsupported claims&lt;/li&gt;
+&lt;li&gt;think about possible consequences of author&amp;rsquo;s claims&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;extensive-reading-and-inclusive-reading&#34;&gt;Extensive Reading and Inclusive Reading
+&lt;/h2&gt;&lt;h3 id=&#34;extensive-reading---focusing-on-quantity&#34;&gt;extensive reading - focusing on quantity
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Abstract&lt;/li&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;inclusive-reading&#34;&gt;inclusive reading
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;background：研究背景&lt;/li&gt;
+&lt;li&gt;purpose：研究目的&lt;/li&gt;
+&lt;li&gt;content：内容&lt;/li&gt;
+&lt;li&gt;method：技术路线&lt;/li&gt;
+&lt;li&gt;novel idea：创新点&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;three-pass-reading-approach-每篇文章读三遍&#34;&gt;Three-pass Reading Approach: 每篇文章读三遍
+&lt;/h2&gt;&lt;h4 id=&#34;the-first-pass-get-general-idea&#34;&gt;the first pass: get general idea
+&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;the first pass need about 5 ~ 10 minutes,
+读摘要、引言、后续所有的小标题、结论、参考文献&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;what type of paper is this?&lt;/li&gt;
+&lt;li&gt;theoretical or practical? 偏理论还是偏实践？&lt;/li&gt;
+&lt;li&gt;an analysis of an existing system or a new proposed one? 分析现有的还是提出新的方法、框架？&lt;/li&gt;
+&lt;li&gt;a description of a research prototype? 研究类型的介绍？&lt;/li&gt;
+&lt;li&gt;which other papers is it related to? 关联哪些论文&lt;/li&gt;
+&lt;li&gt;which theoretical base we need to know? 哪些提前学习的理论知识？&lt;/li&gt;
+&lt;li&gt;do the assumption as well as conclusions appear to be valid?&lt;/li&gt;
+&lt;li&gt;what are the paper&amp;rsquo;s main contributions?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;the-second-pass-ignore-details-such-as-proofs-read-with-greater-care&#34;&gt;the second pass: ignore details such as proofs, read with greater care
+&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;the second pass need about 1 hour
+仔细看图、表、插图
+留下笔记，掌握论文内容。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h4 id=&#34;the-third-pass-understand-paper-in-depth&#34;&gt;the third pass: understand paper in depth
+&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;virtually re-implement the paper ：复现论文
+identify not only a paper&amp;rsquo;s innovations but also its hidden faliings and assumptions：不仅关注创新点，也要找到作者隐藏的缺点&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;write down ideas for future work：思考对后续工作的帮助&lt;/li&gt;
+&lt;li&gt;reconstruct the entire structure of the paper from memory：重构论文框架&lt;/li&gt;
+&lt;li&gt;identify its strong and weak points：找到优点和缺点&lt;/li&gt;
+&lt;li&gt;pinpoint implicit assumptions, missing citations to relevant work, and potential issues with experimental or analytical techniques&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;take-notes-做笔记&#34;&gt;Take Notes 做笔记
+&lt;/h2&gt;&lt;h4 id=&#34;prepare-for-paper-writing&#34;&gt;Prepare for paper writing
+&lt;/h4&gt;&lt;h4 id=&#34;good-notes-should-be-clarity-simple-不要摘抄&#34;&gt;good notes should be clarity, simple 不要摘抄
+&lt;/h4&gt;&lt;h2 id=&#34;literature-survey&#34;&gt;Literature Survey
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;追内容&lt;/li&gt;
+&lt;li&gt;追作者&lt;/li&gt;
+&lt;li&gt;追期刊&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
-        <link>http://localhost:1313/p/test-chinese/</link>
+        <link>https://JerryNight.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+        <guid>https://JerryNight.github.io/p/test-chinese/</guid>
+        <description>&lt;img src="https://JerryNight.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
 &lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
 &lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
 &lt;h2 id=&#34;引用&#34;&gt;引用
@@ -25,10 +101,10 @@
 &lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://JerryNight.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, http://localhost:1313/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w&#34;
+	srcset=&#34;https://JerryNight.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, https://JerryNight.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
@@ -38,10 +114,10 @@
 		data-flex-grow=&#34;66&#34;
 		data-flex-basis=&#34;160px&#34;
 	
-&gt;  &lt;img src=&#34;http://localhost:1313/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;https://JerryNight.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;667&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, http://localhost:1313/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w&#34;
+	srcset=&#34;https://JerryNight.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, https://JerryNight.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
@@ -52,10 +128,10 @@
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://JerryNight.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w&#34;
+	srcset=&#34;https://JerryNight.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, https://JerryNight.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
@@ -65,10 +141,10 @@
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;320px&#34;
 	
-&gt;  &lt;img src=&#34;http://localhost:1313/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;https://JerryNight.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, http://localhost:1313/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
+	srcset=&#34;https://JerryNight.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, https://JerryNight.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
